@@ -1,0 +1,16 @@
+runtime: python27
+api_version: 1
+threadsafe: true
+handlers:
+  - url: /
+    static_files: index.html
+    upload: index.html
+  - url: ./dist/output.css
+    static_files: output.css
+    upload: output.css
+  - url: ./src/input.css
+    static_files: input.css
+    upload: input.css
+  - url: /tailwind.config.js
+    static_files: tailwind.config.js
+    upload: tailwind.config.js

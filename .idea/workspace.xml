@@ -5,6 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="dbfc9951-7154-4f03-8ecf-f3ff170bee76" name="Changes" comment="node_modules">
+      <change afterPath="$PROJECT_DIR$/app.yaml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/node_modules/.bin/acorn" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/node_modules/.bin/acorn.cmd" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/node_modules/.bin/acorn.ps1" afterDir="false" />
@@ -985,6 +986,7 @@
       <change afterPath="$PROJECT_DIR$/node_modules/yaml/util.mjs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -1070,7 +1072,7 @@
       <workItem from="1651240942398" duration="11318000" />
       <workItem from="1651632057731" duration="20000" />
       <workItem from="1655873607615" duration="14782000" />
-      <workItem from="1655952577519" duration="5495000" />
+      <workItem from="1655952577519" duration="9494000" />
     </task>
     <task id="LOCAL-00001" summary="revisi 1">
       <created>1651250930132</created>
@@ -1107,7 +1109,14 @@
       <option name="project" value="LOCAL" />
       <updated>1655967951884</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="update">
+      <created>1655979232952</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1655979232952</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -1116,10 +1125,10 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="revisi 1" />
     <MESSAGE value="revisi 2" />
-    <MESSAGE value="update" />
     <MESSAGE value="node_modules" />
     <MESSAGE value="update 2" />
     <MESSAGE value="update package.json" />
-    <option name="LAST_COMMIT_MESSAGE" value="update package.json" />
+    <MESSAGE value="update" />
+    <option name="LAST_COMMIT_MESSAGE" value="update" />
   </component>
 </project>
