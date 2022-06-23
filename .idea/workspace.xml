@@ -5,10 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="dbfc9951-7154-4f03-8ecf-f3ff170bee76" name="Changes" comment="node_modules">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dist/img/portfolio/GCP arsitektur capstone.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dist/img/portfolio/project-5.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dist/img/portfolio/project-6.jpg" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/node_modules/.bin/acorn" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/node_modules/.bin/acorn.cmd" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/node_modules/.bin/acorn.ps1" afterDir="false" />
@@ -987,9 +983,8 @@
       <change afterPath="$PROJECT_DIR$/node_modules/yaml/util.d.ts" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/node_modules/yaml/util.js" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/node_modules/yaml/util.mjs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -1046,6 +1041,23 @@
       <recent name="C:\Project Pribadi\portofolio-tailwind-css\dist\img" />
     </key>
   </component>
+  <component name="RunManager">
+    <configuration name="start" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="start" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="npm.start" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -1058,7 +1070,7 @@
       <workItem from="1651240942398" duration="11318000" />
       <workItem from="1651632057731" duration="20000" />
       <workItem from="1655873607615" duration="14782000" />
-      <workItem from="1655952577519" duration="3504000" />
+      <workItem from="1655952577519" duration="5495000" />
     </task>
     <task id="LOCAL-00001" summary="revisi 1">
       <created>1651250930132</created>
@@ -1081,7 +1093,21 @@
       <option name="project" value="LOCAL" />
       <updated>1655962787945</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="update 2">
+      <created>1655967722562</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1655967722562</updated>
+    </task>
+    <task id="LOCAL-00005" summary="update package.json">
+      <created>1655967951884</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1655967951884</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -1092,6 +1118,8 @@
     <MESSAGE value="revisi 2" />
     <MESSAGE value="update" />
     <MESSAGE value="node_modules" />
-    <option name="LAST_COMMIT_MESSAGE" value="node_modules" />
+    <MESSAGE value="update 2" />
+    <MESSAGE value="update package.json" />
+    <option name="LAST_COMMIT_MESSAGE" value="update package.json" />
   </component>
 </project>
